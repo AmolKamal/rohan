@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rohan/static/css/main.afdd24af.css",
+    "main.js": "/rohan/static/js/main.cf0b38d8.js",
+    "static/js/787.ecd04812.chunk.js": "/rohan/static/js/787.ecd04812.chunk.js",
+    "static/media/bg2.jpeg": "/rohan/static/media/bg2.1764c10b7e6c2907025b.jpeg",
+    "index.html": "/rohan/index.html",
+    "static/media/instagram.svg": "/rohan/static/media/instagram.53e88ec897534f2befd465a2477ec8e7.svg",
+    "main.afdd24af.css.map": "/rohan/static/css/main.afdd24af.css.map",
+    "main.cf0b38d8.js.map": "/rohan/static/js/main.cf0b38d8.js.map",
+    "787.ecd04812.chunk.js.map": "/rohan/static/js/787.ecd04812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdd24af.css",
+    "static/js/main.cf0b38d8.js"
+  ]
+}
